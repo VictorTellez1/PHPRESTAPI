@@ -1,0 +1,13 @@
+{
+    "name": "victo/apirest-phpv2",
+    "autoload": {
+        "psr-4": {
+            "Victo\\ApirestPhpv2\\": "src/",
+            "MVC\\" : "./",
+            "Controllers\\": "./controllers",
+            "Model\\": "./models"
+
+        }
+    },
+    "require": {}
+}
